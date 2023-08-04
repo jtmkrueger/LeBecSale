@@ -107,9 +107,8 @@ h2 {
 }
 #menu li {
   padding: 8px 0;
-  font-size: 2em;
-  font-weight: bolder;
-  font-family: 'Alex Brush', serif;
+  font-size: 1.8em;
+  font-family: Times, serif;
 }
 /*
  * And let's slide it in from the left
